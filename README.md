@@ -1,8 +1,14 @@
 # Open Source Contributions
 
-Pull requests I've authored that were **reviewed and merged**.
+Pull requests I've authored that were **reviewed and merged**, plus ones currently in review.
 
 **Total merged PRs:** 12 · **External projects:** 6 · **Last updated:** 2026-11-14
+
+## In review
+
+| Project | PR | Title | Opened | Changes | Status |
+|---------|----|-------|--------|---------|--------|
+| [meshery/meshery](https://github.com/meshery/meshery) | [#23431](https://github.com/meshery/meshery/pull/23431) | [UI] Design validator: accept commands in all states, per-request reply addresses (part of [#23407](https://github.com/meshery/meshery/issues/23407)) | 2026-11-13 | +888 / −82 | 🟡 Open, awaiting review (CI passing) |
 
 ## Contributions to other projects
 
